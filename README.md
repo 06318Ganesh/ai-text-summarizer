@@ -240,5 +240,7 @@ Neutral
 ##  Final Note
 
 This project focuses on clarity, reliability, and strong fundamentals rather than complexity. It demonstrates the ability to design, build, and explain an LLM-powered workflow in a production-ready manner.
+## Output Imges
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a1952843-31df-4a81-9131-0cfe3a0fb3c6" />
 
----
+ ---
